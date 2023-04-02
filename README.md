@@ -4,6 +4,11 @@
 * 이화여자대학교 통계학/경제학 학사 (2017.3-2021.8)
 * 이화여자대학교 통계학 석사 (2021.9-2023.8)
 
+### 📧 이메일
+* yeonkyunglee_98@naver.com
+
+
+
 
 <!--
 **yeonkyung-Lee/yeonkyung-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
